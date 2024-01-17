@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ievgen Pozdniakov</h1>
 <h3 align="center">A passionate Data Scientist from Germany</h3>
 
+![Github Activity Graph](https://github-readme-activity-graph-rizus-projects.vercel.app/graph?username=Rizus&theme=material-palenight) 
+
 - 🌱 I’m currently learning **Mathematics and Statistics**
 
 - 📫 How to reach me **pozdniakov.ievgen@gmail.com**
