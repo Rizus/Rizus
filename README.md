@@ -1,5 +1,9 @@
-<h1 align="center">Hello World! 👋</a></h1>
-<h3 align="center">Welcome to my GitHab profile!</h3>
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=27&text=👋%20Hello%20World!&section=header&textBg=false&reversal=false&animation=twinkling&descAlign=51)
+
+<p>About Me:</p>
+<p><i>I am a Frontend Developer. I am inspired by challenging projects and collaborative teamwork where I can bring my input and realize creative ideas. My main goal is to create outstanding web projects that are not               only functional but also visually appealing.
+        I am committed to continuous self-improvement and learning, always striving to stay up to date with the latest technology trends and best practices in web development. Besides work, I am passionate about                   traveling, cars, fishing and playing guitar. I believe that my passion and commitment to excellence contribute to the success of the web space.</i></p>
+<hr></hr>
 
 ![Github Activity Graph](https://github-readme-activity-graph-rizus-projects.vercel.app/graph?username=Rizus&theme=material-palenight&custom_title=My%20Github%20Activity%20Graph%20&hide_border=true)
 
