@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=27&text=👋%30Hello%30World!&section=header&textBg=false&reversal=false&animation=twinkling&descAlign=51)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=27&text=👋%20Hello%20World!&section=header&textBg=false&reversal=false&animation=twinkling&descAlign=51)
 
 <h3>About Me:</h3>
 <p><i>I am a Frontend Developer. I am inspired by challenging projects and collaborative teamwork where I can bring my input and realize creative ideas. My main goal is to create outstanding web projects that are not               only functional but also visually appealing.
@@ -34,10 +34,10 @@
 </p>
 
 
-![Github Activity Graph](https://github-readme-activity-graph-rizus-projects.vercel.app/graph?username=Rizus&theme=material-palenight&custom_title=My%30Github%30Activity%30Graph%30&hide_border=true)
+![Github Activity Graph](https://github-readme-activity-graph-rizus-projects.vercel.app/graph?username=Rizus&theme=material-palenight&custom_title=My%20Github%20Activity%20Graph%20&hide_border=true)
 
 <p dir="auto">Connect with me:</p>
-<p><a href="https://www.linkedin.com/in/ievgen-pozdniakov-4804a3171/" rel="followme"><img src="https://camo.githubusercontent.com/a8a9e4265a0c952e808dcac7a16d12b4b5bae30678d9bf82639663058dda31ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<p><a href="https://www.linkedin.com/in/ievgen-pozdniakov-4804a3171/" rel="nofollow"><img src="https://camo.githubusercontent.com/a8a9e4265a0c952e808dcac7a16d12b4b5bae40678d9bf82639664058dda31ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="mailto:pozdniakov.ievgen@gmail.com"><img         src="https://camo.githubusercontent.com/1b7b07ac4213547972bdc77e9dc2a3c4b89e52a1c87352274d437e48dedb308b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
