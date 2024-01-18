@@ -12,8 +12,9 @@
 </p>
 <h5 align="center">Tools:</h5>
 <p align="center">
+        <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="jetbrains" width="30" height="30"/></a>
         <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="30" height="30"></a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>        
 </p>
 <h5 align="center">Database:</h5>
 <p align="center">
