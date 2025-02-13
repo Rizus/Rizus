@@ -43,4 +43,6 @@
 <hr></hr>
 
 
+![codewars](https://www.codewars.com/users/Rizus/badges/small)
+
 <p align="right"> <a href="https://komarev.com/ghpvc/?username=Rizus&abbreviated=true&color=00b2b2" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=Rizus&abbreviated=true&color=00b2b2" /> </a></p>
