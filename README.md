@@ -15,7 +15,7 @@ Here I collect study and practice projects to show progress in data analytics.
 
 **Auf Deutsch**
 
-*Ich arbeite mit Python und SQL und lerne Visualisierungen, ML-Modelle und Dashboards.*
+*Hi, ich arbeite mit Python und SQL und lerne Visualisierungen, ML-Modelle und Dashboards.*
 *Hier sammle ich Lern- und Praxisprojekte, um meinen Fortschritt in der Datenanalyse zu zeigen.*
 
 **Schwerpunkte:** Datenaufbereitung, EDA, Textverarbeitung, SQL-Analytik, Dashboards
