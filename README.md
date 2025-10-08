@@ -1,29 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=27&text=👋%20Ievgen%20Pozdniakov&section=header&textBg=false&reversal=false&animation=twinkling&descAlign=51)
-
-#
-<p><i> Hi, I’m a junior Data Analyst.  
+<hr></hr>
+<p> Hi, I’m a junior Data Analyst.  
 I work with Python and SQL and I’m learning visualizations, ML models, and dashboards.  
 Here I collect study and practice projects to show progress in data analytics.
-</i>
 
-**Focus:** data wrangling, EDA, text processing, SQL analytics, dashboards
+**Focus:** <i>data wrangling, EDA, text processing, SQL analytics, dashboards</i>
 
-**Stack:** Python, Pandas, SQL; learning Plotly/Streamlit
-
-**Featured project:** train-delays-analysis — Deutsche Bahn timetables, changes, delay analysis
-##
-
-**Auf Deutsch**
-
-*Hi, ich arbeite mit Python und SQL und lerne Visualisierungen, ML-Modelle und Dashboards.*
-*Hier sammle ich Lern- und Praxisprojekte, um meinen Fortschritt in der Datenanalyse zu zeigen.*
-
-**Schwerpunkte:** Datenaufbereitung, EDA, Textverarbeitung, SQL-Analytik, Dashboards
-
-**Stack:** Python, Pandas, SQL; lerne Plotly/Streamlit
+**Stack:** <i>Python, Pandas, SQL; learning Plotly/Streamlit</i>
 </p>
 <hr></hr>
-
 
 # Pinned Projects  
 - [Train Delays Analysis Repository](https://github.com/Rizus/train-delays-analysis)
